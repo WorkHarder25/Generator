@@ -1,0 +1,17 @@
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\bin\Debug\InsultGenGUI.exe.config
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\bin\Debug\InsultGenGUI.exe.manifest
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\bin\Debug\InsultGenGUI.application
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\bin\Debug\InsultGenGUI.exe
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\bin\Debug\InsultGenGUI.pdb
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.Form1.resources
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.Properties.Resources.resources
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.csproj.GenerateResource.cache
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.csproj.CoreCompileInputs.cache
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.TrustInfo.xml
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.exe.manifest
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.application
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.exe
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.pdb
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.csproj.AssemblyReference.cache
+C:\Users\Lydia Sarver\Dropbox\PC (2)\Documents\Programing Games\Insult Generator\GUI Version\InsultGenGUI\InsultGenGUI\obj\Debug\InsultGenGUI.PopUp.resources
